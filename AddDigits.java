@@ -10,5 +10,7 @@ public class AddDigits {
            n=n/10;
         }
         System.out.println("sum of digits is:"+sum);
+        //sout
+
     }
 }
